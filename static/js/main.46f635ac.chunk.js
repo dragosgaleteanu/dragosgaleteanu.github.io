@@ -1,0 +1,2 @@
+(this.webpackJsonpportfolio_website=this.webpackJsonpportfolio_website||[]).push([[0],{11:function(t,e,n){"use strict";n.r(e);n(1);var o=n(3),r=n.n(o),c=(n(8),n(9),n(0)),i=function(){return Object(c.jsx)("h1",{children:"WELCOME"})};var s=function(){return Object(c.jsx)(i,{})};r.a.render(Object(c.jsx)(s,{}),document.getElementById("root"))},8:function(t,e,n){},9:function(t,e,n){t.exports={textShake:"Header_textShake__3cnbU"}}},[[11,1,2]]]);
+//# sourceMappingURL=main.46f635ac.chunk.js.map
